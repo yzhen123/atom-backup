@@ -1,0 +1,12 @@
+"share+note":
+  title: "share+note"
+  paths: [
+    "/home/z/doubangit/share"
+    "/home/z/doubangit/learn"
+    "/home/z/doubangit/mine"
+  ]
+share:
+  title: "share"
+  paths: [
+    "/home/z/doubangit/mine"
+  ]

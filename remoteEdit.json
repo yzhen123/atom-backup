@@ -1,0 +1,1 @@
+{"hostList":[{"alias":"","hostname":"doubandev2","directory":"/","username":"yangzhen","port":"22","localFiles":[],"useAgent":false,"usePrivateKey":false,"usePassword":true,"password":"","deserializer":"SftpHost"}],"deserializer":"InterProcessData"}

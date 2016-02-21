@@ -1,0 +1,58 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "d7e56e70-f6a7-4778-8dc5-b06994b5aeaa"
+  "atom-ternjs": {}
+  "autocomplete-python": {}
+  "browser-plus": {}
+  build: {}
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "linter"
+      "build"
+      "jshint"
+      "AtomicChar"
+      "Remote-FTP"
+      "remote-sync"
+    ]
+    ignoredNames: [
+      "*.pyc"
+      "venv"
+    ]
+  editor:
+    fontSize: 21
+    invisibles: {}
+    softWrap: true
+  "exception-reporting":
+    userId: "8154cebe-ed38-76f0-fc63-a54253cbb0b1"
+  jshint:
+    onlyConfig: true
+    supportLintingJsx: true
+  "language-babel": {}
+  linter:
+    showErrorPanel: false
+  "linter-scss-lint":
+    executablePath: "scss-lint"
+  "markdown-writer":
+    fileExtension: ".md"
+  minimap:
+    absoluteMode: true
+    plugins:
+      "minimap-autohide": false
+  "node-debugger": {}
+  react: {}
+  "remote-edit": {}
+  "remote-sync": {}
+  tasks: {}
+  "terminal-plus":
+    core: {}
+    style:
+      animationSpeed: 3
+      defaultPanelHeight: 250
+      fontSize: 14
+    toggles:
+      autoClose: true
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
